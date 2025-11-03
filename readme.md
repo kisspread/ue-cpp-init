@@ -4,6 +4,8 @@ A simple, zero-dependency CLI tool to quickly initialize a C++ project structure
 
 (Only Support to create UE5.6 C++ Project)
 
+This tool available on npm now: https://www.npmjs.com/package/ue-cpp-init
+
 ## Why?
 
 When you want to convert a Blueprint-only Unreal Engine project to a C++ project, you need to manually create the `Source` directory and a set of boilerplate files (`.Build.cs`, `.Target.cs`). This tool automates that process.
