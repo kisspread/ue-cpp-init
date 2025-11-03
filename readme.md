@@ -16,3 +16,13 @@ Install it globally using npm:
 
 ```bash
 npm install -g ue-cpp-init
+```
+
+## Usage
+
+```bash
+cd <your-project-directory>
+ue-cpp-init
+``` 
+
+done !
