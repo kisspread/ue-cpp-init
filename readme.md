@@ -4,7 +4,7 @@ A simple, zero-dependency CLI tool to quickly initialize a C++ project structure
 
 Now it supports Unreal Engine 5.0+ C++ project.
 
-This tool available on npm now: https://www.npmjs.com/package/ue-cpp-init
+This tool available on npm now: https://www.npmjs.com/package/uecpp
 
 ## Why?
 
